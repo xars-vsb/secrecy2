@@ -1,0 +1,1 @@
+local function rtr(fen) fen.fen = _G end return rtr
